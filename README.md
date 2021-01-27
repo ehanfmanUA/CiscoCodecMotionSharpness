@@ -4,7 +4,7 @@ A quick way for users to switch between Sharpness and Clarity on a video codec w
 
 There are two main files:
   roomcontrolconig.XML
-  Motion-sharpness with button check javascript file
+  Motion-sharpness with Button Check.js
   
   
   the XML is the button to load to the UA Extensions editor of the codec - I suggest making this visible only when in a call
